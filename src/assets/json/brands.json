@@ -1,0 +1,32 @@
+{
+  "louis-vuitton": {
+    "name": "Louis Vuitton",
+    "image": "louisVuittion.png",
+    "link": "louis-vuitton"
+  },
+  "prada": {
+    "name": "Prada",
+    "image": "prada.png",
+    "link": "prada"
+  },
+  "gucci": {
+    "name": "Gucci",
+    "image": "gucci.png",
+    "link": "gucci"
+  },
+  "chanel": {
+    "name": "Chanel",
+    "image": "chanel.png",
+    "link": "chanel"
+  },
+  "burberry": {
+    "name": "Burberry",
+    "image": "burberry.png",
+    "link": "burberry"
+  },
+  "chloe": {
+    "name": "Chloe",
+    "image": "chloe.png",
+    "link": "chloe"
+  }
+}

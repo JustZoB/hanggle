@@ -1,0 +1,577 @@
+{
+  "274367983": {
+    "id": 274367983,
+    "gender": "women",
+    "category": "clothes",
+    "subcategory": "dresses",
+    "name": "Yellow Dress",
+    "price": 270,
+    "shipping": 12.5,
+    "images": [
+      "yellowDress.png"
+    ],
+    "brand": {
+      "name": "Prada",
+      "link": "prada"
+    },
+    "color": "Yellow",
+    "size": "M",
+    "condition": "Very Good"
+  },
+  "274367984": {
+    "id": 274367984,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "sweater",
+    "name": "Sweater",
+    "price": 190,
+    "images": [
+      "sweater.png"
+    ],
+    "brand": {
+      "name": "Louis Vuitton",
+      "link": "louis-vuitton"
+    },
+    "color": "Blue",
+    "size": "L",
+    "condition": "Very Good"
+  },
+  "274367985": {
+    "id": 274367985,
+    "gender": "men",
+    "category": "accessories",
+    "subcategory": "sunglasses",
+    "name": "Sunglasses",
+    "price": 245,
+    "images": [
+      "sunglasses.png"
+    ],
+    "brand": {
+      "name": "Gucci",
+      "link": "gucci"
+    },
+    "color": "Black",
+    "condition": "Good"
+  },
+  "274367986": {
+    "id": 274367986,
+    "gender": "men",
+    "category": "bags",
+    "subcategory": "backpacks",
+    "name": "Clutch",
+    "price": 320,
+    "images": [
+      "clutch.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Black",
+    "condition": "Very Good"
+  },
+  "274367987": {
+    "id": 274367987,
+    "gender": "women",
+    "category": "clothes",
+    "subcategory": "dresses",
+    "name": "Black Dress",
+    "price": 215,
+    "images": [
+      "blackDress.png"
+    ],
+    "brand": {
+      "name": "Chanel",
+      "link": "chanel"
+    },
+    "color": "Black",
+    "size": "S",
+    "condition": "Very Good"
+  },
+  "274367988": {
+    "id": 274367988,
+    "gender": "women",
+    "category": "clothes",
+    "subcategory": "dresses",
+    "name": "Poncho",
+    "price": 170,
+    "images": [
+      "poncho.png"
+    ],
+    "brand": {
+      "name": "Gucci",
+      "link": "gucci"
+    },
+    "color": "White",
+    "condition": "Good"
+  },
+  "274367989": {
+    "id": 274367989,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Jacket",
+    "price": 350,
+    "images": [
+      "jacket.png"
+    ],
+    "brand": {
+      "name": "Prada",
+      "link": "prada"
+    },
+    "color": "Black",
+    "size": "M",
+    "condition": "Good"
+  },
+  "274367990": {
+    "id": 274367990,
+    "gender": "men",
+    "category": "shoes",
+    "subcategory": "boots",
+    "name": "Brown Leather Shoes",
+    "price": 270,
+    "images": [
+      "brownLeatherShoes.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Brown",
+    "size": "9",
+    "condition": "Good"
+  },
+  "274367991": {
+    "id": 274367991,
+    "gender": "women",
+    "category": "clothes",
+    "subcategory": "dresses",
+    "name": "Wedding Dress",
+    "price": 340,
+    "images": [
+      "weddingDress.png"
+    ],
+    "brand": {
+      "name": "Gucci",
+      "link": "gucci"
+    },
+    "color": "White",
+    "size": "S",
+    "condition": "Good",
+    "sale": 10
+  },
+  "274367992": {
+    "id": 274367992,
+    "gender": "men",
+    "category": "shoes",
+    "subcategory": "boots",
+    "name": "Sneakers",
+    "price": 130,
+    "images": [
+      "sneakers.png"
+    ],
+    "brand": {
+      "name": "Chloe",
+      "link": "chloe"
+    },
+    "color": "Black",
+    "size": "8",
+    "condition": "Good",
+    "sale": 30
+  },
+  "274367993": {
+    "id": 274367993,
+    "gender": "women",
+    "category": "clothes",
+    "subcategory": "dresses",
+    "name": "White Dress",
+    "price": 250,
+    "images": [
+      "whiteDress.png"
+    ],
+    "brand": {
+      "name": "Prada",
+      "link": "prada"
+    },
+    "color": "White",
+    "size": "M",
+    "condition": "Good",
+    "sale": 15
+  },
+  "274367994": {
+    "id": 274367994,
+    "gender": "men",
+    "category": "bags",
+    "subcategory": "backpack",
+    "name": "Backpack",
+    "price": 150,
+    "shipping": 12.5,
+    "images": [
+      "backpack.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Blue",
+    "condition": "Good",
+    "sale": 20
+  },
+ "274367995": {
+    "id": 274367995,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Short Sleeve Shirt",
+    "price": 140,
+    "images": [
+      "grayShortSleeveShirt1.png"
+    ],
+    "brand": {
+      "name": "Louis Vuitton",
+      "link": "louis-vuitton"
+    },
+    "color": "Gray",
+    "size": "L",
+    "condition": "Very Good"
+  },
+  "274367996": {
+    "id": 274367996,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Authentic Oxford Shirt",
+    "price": 295,
+    "images": [
+      "whiteAuthenticOxfordShirt.png"
+    ],
+    "brand": {
+      "name": "Chanel",
+      "link": "chanel"
+    },
+    "color": "White",
+    "size": "S",
+    "condition": "Very Good"
+  },
+  "274367997": {
+    "id": 274367997,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Authentic Oxford Shirt",
+    "price": 350,
+    "images": [
+      "blueAuthenticOxfordShirt.png"
+    ],
+    "brand": {
+      "name": "Chanel",
+      "link": "chanel"
+    },
+    "color": "Blue",
+    "size": "L",
+    "condition": "Very Good"
+  },
+  "274367998": {
+    "id": 274367998,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Short Sleeve Basic T-Shirt",
+    "price": 90,
+    "images": [
+      "tshirt1.png",
+      "tshirt2.png",
+      "tshirt3.png",
+      "tshirt4.png"
+    ],
+    "brand": {
+      "name": "Chloe",
+      "link": "chloe"
+    },
+    "color": "White",
+    "size": "L",
+    "condition": "Very Good"
+  },
+  "274367999": {
+    "id": 274367999,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Short Sleeve Shirt",
+    "price": 115,
+    "images": [
+      "blackShortSleeveShirt.png"
+    ],
+    "brand": {
+      "name": "Louis Vuitton",
+      "link": "louis-vuitton"
+    },
+    "color": "Black",
+    "size": "L",
+    "condition": "Good"
+  },
+  "274367900": {
+    "id": 274367900,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Printed Shirt",
+    "price": 180,
+    "images": [
+      "printedShirt.png"
+    ],
+    "brand": {
+      "name": "Chanel",
+      "link": "chanel"
+    },
+    "color": "White",
+    "size": "L",
+    "condition": "Good"
+  },
+  "274367901": {
+    "id": 274367901,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Basic Shirt",
+    "price": 59,
+    "images": [
+      "basicShirt.png"
+    ],
+    "brand": {
+      "name": "Prada",
+      "link": "prada"
+    },
+    "color": "Light Blue",
+    "size": "S",
+    "condition": "Bad"
+  },
+  "274367902": {
+    "id": 274367902,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Short Sleeve Shirt",
+    "price": 79,
+    "images": [
+      "yellowShortSleeveShirt.png"
+    ],
+    "brand": {
+      "name": "Chloe",
+      "link": "chloe"
+    },
+    "color": "Yellow",
+    "size": "L",
+    "condition": "Good"
+  },
+  "274367903": {
+    "id": 274367903,
+    "gender": "men",
+    "category": "clothes",
+    "subcategory": "shirts",
+    "name": "Long Sleeve Printed Shirt",
+    "price": 240,
+    "images": [
+      "longSleevePrintedShirt.png"
+    ],
+    "brand": {
+      "name": "Prada",
+      "link": "prada"
+    },
+    "color": "Black",
+    "size": "L",
+    "condition": "Very Good"
+  },
+  "274367904": {
+    "id": 274367904,
+    "gender": "women",
+    "category": "handbags",
+    "subcategory": "shoulder-bags",
+    "name": "CAPUCINES MM Bag",
+    "price": 5100,
+    "images": [
+      "capucines_1.png",
+      "capucines_2.png",
+      "capucines_3.png"
+    ],
+    "brand": {
+      "name": "Louis Vuitton",
+      "link": "louis-vuitton"
+    },
+    "color": "Black",
+    "condition": "Very Good"
+  },
+  "274367905": {
+    "id": 274367905,
+    "gender": "women",
+    "category": "shoes",
+    "subcategory": "sneakers",
+    "name": "Check Cotton Arthur Sneakers",
+    "price": 850,
+    "images": [
+      "sneakers_arthur_1.png",
+      "sneakers_arthur_2.png",
+      "sneakers_arthur_3.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Military Green",
+    "size": "8",
+    "condition": "Very Good"
+  },
+  "274367906": {
+    "id": 274367906,
+    "gender": "women",
+    "category": "jewellery",
+    "subcategory": "rings",
+    "name": "Coco Crush Ring",
+    "price": 1850,
+    "images": [
+      "coco_ring_2.png",
+      "coco_ring_1.png"
+    ],
+    "brand": {
+      "name": "Chanel",
+      "link": "chanel"
+    },
+    "color": "Silver",
+    "size": "53",
+    "condition": "Very Good"
+  },
+  "274367907": {
+    "id": 274367907,
+    "gender": "girls",
+    "category": "shoes",
+    "subcategory": "boots",
+    "name": "GG Multicolor Children's Gucci Tennis 1977",
+    "price": 530,
+    "images": [
+      "girls_boots_1.png",
+      "girls_boots_2.png"
+    ],
+    "brand": {
+      "name": "Gucci",
+      "link": "gucci"
+    },
+    "color": "Multicolor",
+    "size": "27",
+    "condition": "Very Good",
+    "sale": 20
+  },
+  "274367908": {
+    "id": 274367908,
+    "gender": "women",
+    "category": "shoes",
+    "subcategory": "high-heels",
+    "name": "HEARTBREAKER PUMP",
+    "price": 950,
+    "images": [
+      "heartbreaker_pump_1.png",
+      "heartbreaker_pump_2.png",
+      "heartbreaker_pump_3.png"
+    ],
+    "brand": {
+      "name": "Louis Vuitton",
+      "link": "louis-vuitton"
+    },
+    "color": "Black",
+    "size": "8",
+    "condition": "Very Good"
+  },
+  "274367909": {
+    "id": 274367909,
+    "gender": "boys",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "name": "Leather sandal with Web",
+    "price": 380,
+    "images": [
+      "leather_sandals_1.png",
+      "leather_sandals_2.png"
+    ],
+    "brand": {
+      "name": "Gucci",
+      "link": "gucci"
+    },
+    "color": "Black",
+    "size": "29",
+    "condition": "Very Good"
+  },
+  "274367910": {
+    "id": 274367910,
+    "gender": "women",
+    "category": "handbags",
+    "subcategory": "shoulder-bags",
+    "name": "Mini Leather Zip Olympia Bag",
+    "price": 1550,
+    "images": [
+      "leather_bag_1.png",
+      "leather_bag_2.png",
+      "leather_bag_3.png",
+      "leather_bag_4.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Blue Topaz",
+    "condition": "Very Good"
+  },
+  "274367911": {
+    "id": 274367911,
+    "gender": "boys",
+    "category": "accessories",
+    "subcategory": "sunglasses",
+    "name": "Navigator Sunglasses",
+    "price": 160,
+    "images": [
+      "sunglasses_green_1.png",
+      "sunglasses_green_2.png",
+      "sunglasses_green_3.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Green",
+    "condition": "Very Good"
+  },
+  "274367912": {
+    "id": 274367912,
+    "gender": "girls",
+    "category": "accessories",
+    "subcategory": "sunglasses",
+    "name": "Oval Frame Sunglasses",
+    "price": 160,
+    "images": [
+      "sunglasses_light-blue_1.png",
+      "sunglasses_light-blue_2.png",
+      "sunglasses_light-blue_3.png"
+    ],
+    "brand": {
+      "name": "Burberry",
+      "link": "burberry"
+    },
+    "color": "Light Blue",
+    "condition": "Very Good"
+  },
+  "274367913": {
+    "id": 274367913,
+    "gender": "women",
+    "category": "jewellery",
+    "subcategory": "bracelets",
+    "name": "Tiger head resin bracelet",
+    "price": 1150,
+    "images": [
+      "bracelet_tiger_1.png"
+    ],
+    "brand": {
+      "name": "Gucci",
+      "link": "gucci"
+    },
+    "color": "Turquoise",
+    "condition": "Very Good"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "men": [
+    {
+      "name": "Clothes",
+      "category": "clothes",
+      "href": "/men/clothes",
+      "subcategories": [
+        {
+          "name": "Shirts",
+          "subcategory": "shirts",
+          "href": "/men/clothes/shirts"
+        },
+        {
+          "name": "Jeans",
+          "subcategory": "jeans",
+          "href": "/men/clothes/jeans"
+        },
+        {
+          "name": "Jackets",
+          "subcategory": "jackets",
+          "href": "/men/clothes/jackets"
+        },
+        {
+          "name": "Sweaters",
+          "subcategory": "sweaters",
+          "href": "/men/clothes/sweaters"
+        }
+      ]
+    },
+    {
+      "name": "Hangbags",
+      "category": "bags",
+      "href": "/men/bags",
+      "subcategories": [
+        {
+          "name": "Backpacks",
+          "subcategory": "socks",
+          "href": "/men/bags/socks"
+        },
+        {
+          "name": "Caps",
+          "subcategory": "caps",
+          "href": "/men/bags/caps"
+        }
+      ]
+    },
+    {
+      "name": "Shoes",
+      "category": "shoes",
+      "href": "/men/shoes",
+      "subcategories": [
+        {
+          "name": "Boots",
+          "subcategory": "boots",
+          "href": "/men/shoes/boots"
+        },
+        {
+          "name": "Sandals",
+          "subcategory": "sandals",
+          "href": "/men/shoes/sandals"
+        },
+        {
+          "name": "Loafers",
+          "subcategory": "loafers",
+          "href": "/men/shoes/loafers"
+        },
+        {
+          "name": "Trainers",
+          "subcategory": "trainers",
+          "href": "/men/shoes/trainers"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "category": "accessories",
+      "href": "/men/accessories",
+      "subcategories": [
+        {
+          "name": "Socks",
+          "subcategory": "socks",
+          "href": "/men/accessories/socks"
+        },
+        {
+          "name": "Sunglasses",
+          "subcategory": "sunglasses",
+          "href": "/men/accessories/sunglasses"
+        },
+        {
+          "name": "Hats",
+          "subcategory": "hats",
+          "href": "/men/accessories/hats"
+        }
+      ]
+    },
+    {
+      "name": "Jewellery",
+      "category": "jewellery",
+      "href": "/men/jewellery",
+      "subcategories": [
+        {
+          "name": "Rings",
+          "subcategory": "rings",
+          "href": "/men/jewellery/rings"
+        },
+        {
+          "name": "Bracelets",
+          "subcategory": "bracelets",
+          "href": "/men/jewellery/bracelets"
+        }
+      ]
+    }
+  ],
+  "women": [
+    {
+      "name": "Clothes",
+      "category": "clothes",
+      "href": "/women/clothes",
+      "subcategories": [
+        {
+          "name": "Tops",
+          "subcategory": "tops",
+          "href": "/women/clothes/tops"
+        },
+        {
+          "name": "Dresses",
+          "subcategory": "dresses",
+          "href": "/women/clothes/dresses"
+        },
+        {
+          "name": "Jeans",
+          "subcategory": "jeans",
+          "href": "/women/clothes/jeans"
+        },
+        {
+          "name": "Pants",
+          "subcategory": "pants",
+          "href": "/women/clothes/pants"
+        }
+      ]
+    },
+    {
+      "name": "Hangbags",
+      "category": "bags",
+      "href": "/women/bags",
+      "subcategories": [
+        {
+          "name": "Shoulder bags",
+          "subcategory": "shoulder-bags",
+          "href": "/women/bags/shoulder-bags"
+        },
+        {
+          "name": "Clutch bags",
+          "subcategory": "clutch-bags",
+          "href": "/women/bags/clutch-bags"
+        }
+      ]
+    },
+    {
+      "name": "Shoes",
+      "category": "shoes",
+      "href": "/women/shoes",
+      "subcategories": [
+        {
+          "name": "Boots",
+          "subcategory": "boots",
+          "href": "/women/shoes/boots"
+        },
+        {
+          "name": "Sandals",
+          "subcategory": "sandals",
+          "href": "/women/shoes/sandals"
+        },
+        {
+          "name": "Flats",
+          "subcategory": "flats",
+          "href": "/women/shoes/flats"
+        },
+        {
+          "name": "High-heels",
+          "subcategory": "high-heels",
+          "href": "/women/shoes/high-heels"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "category": "accessories",
+      "href": "/women/accessories",
+      "subcategories": [
+        {
+          "name": "Sunglasses",
+          "subcategory": "sunglasses",
+          "href": "/women/accessories/sunglasses"
+        },
+        {
+          "name": "Hats",
+          "subcategory": "hats",
+          "href": "/women/accessories/hats"
+        }
+      ]
+    },
+    {
+      "name": "Jewellery",
+      "category": "jewellery",
+      "href": "/women/jewellery",
+      "subcategories": [
+        {
+          "name": "Rings",
+          "subcategory": "rings",
+          "href": "/women/jewellery/rings"
+        },
+        {
+          "name": "Bracelets",
+          "subcategory": "bracelets",
+          "href": "/women/jewellery/bracelets"
+        }
+      ]
+    }
+  ],
+  "girls": [
+    {
+      "name": "Clothes",
+      "category": "clothes",
+      "href": "/girls/clothes",
+      "subcategories": [
+        {
+          "name": "Tops",
+          "subcategory": "tops",
+          "href": "/girls/clothes/tops"
+        },
+        {
+          "name": "Dresses",
+          "subcategory": "dresses",
+          "href": "/girls/clothes/dresses"
+        },
+        {
+          "name": "Jeans",
+          "subcategory": "jeans",
+          "href": "/girls/clothes/jeans"
+        },
+        {
+          "name": "Pants",
+          "subcategory": "pants",
+          "href": "/girls/clothes/pants"
+        }
+      ]
+    },
+    {
+      "name": "Hangbags",
+      "category": "bags",
+      "href": "/girls/bags",
+      "subcategories": [
+        {
+          "name": "Backpacks",
+          "subcategory": "backpacks",
+          "href": "/girls/bags/backpacks"
+        }
+      ]
+    },
+    {
+      "name": "Shoes",
+      "category": "shoes",
+      "href": "/girls/shoes",
+      "subcategories": [
+        {
+          "name": "Boots",
+          "subcategory": "boots",
+          "href": "/girls/shoes/boots"
+        },
+        {
+          "name": "Sandals",
+          "subcategory": "sandals",
+          "href": "/girls/shoes/sandals"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "category": "accessories",
+      "href": "/girls/accessories",
+      "subcategories": [
+        {
+          "name": "Socks",
+          "subcategory": "socks",
+          "href": "/girls/accessories/socks"
+        },
+        {
+          "name": "Sunglasses",
+          "subcategory": "sunglasses",
+          "href": "/girls/accessories/sunglasses"
+        },
+        {
+          "name": "Hats",
+          "subcategory": "hats",
+          "href": "/girls/accessories/hats"
+        }
+      ]
+    },
+    {
+      "name": "Jewellery",
+      "category": "jewellery",
+      "href": "/girls/jewellery",
+      "subcategories": [
+        {
+          "name": "Rings",
+          "subcategory": "rings",
+          "href": "/girls/jewellery/rings"
+        },
+        {
+          "name": "Bracelets",
+          "subcategory": "bracelets",
+          "href": "/girls/jewellery/bracelets"
+        }
+      ]
+    }
+  ],
+  "boys": [
+    {
+      "name": "Clothes",
+      "category": "clothes",
+      "href": "/boys/clothes",
+      "subcategories": [
+        {
+          "name": "Shirts",
+          "subcategory": "shirts",
+          "href": "/boys/clothes/shirts"
+        },
+        {
+          "name": "Shorts",
+          "subcategory": "shorts",
+          "href": "/boys/clothes/shorts"
+        },
+        {
+          "name": "Jeans",
+          "subcategory": "jeans",
+          "href": "b/oys/clothes/jeans"
+        },
+        {
+          "name": "Pants",
+          "subcategory": "pants",
+          "href": "/boys/clothes/pants"
+        }
+      ]
+    },
+    {
+      "name": "Hangbags",
+      "category": "bags",
+      "href": "/boys/bags",
+      "subcategories": [
+        {
+          "name": "Backpacks",
+          "subcategory": "backpacks",
+          "href": "/boys/bags/backpacks"
+        }
+      ]
+    },
+    {
+      "name": "Shoes",
+      "category": "shoes",
+      "href": "/boys/shoes",
+      "subcategories": [
+        {
+          "name": "Boots",
+          "subcategory": "boots",
+          "href": "/boys/shoes/boots"
+        },
+        {
+          "name": "Sandals",
+          "subcategory": "sandals",
+          "href": "/boys/shoes/sandals"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "category": "accessories",
+      "href": "/boys/accessories",
+      "subcategories": [
+        {
+          "name": "Socks",
+          "subcategory": "socks",
+          "href": "/boys/accessories/socks"
+        },
+        {
+          "name": "Sunglasses",
+          "subcategory": "sunglasses",
+          "href": "/boys/accessories/sunglasses"
+        },
+        {
+          "name": "Hats",
+          "subcategory": "hats",
+          "href": "/boys/accessories/hats"
+        }
+      ]
+    },
+    {
+      "name": "Jewellery",
+      "category": "jewellery",
+      "href": "/boys/jewellery",
+      "subcategories": [
+        {
+          "name": "Rings",
+          "subcategory": "rings",
+          "href": "/boys/jewellery/rings"
+        },
+        {
+          "name": "Bracelets",
+          "subcategory": "bracelets",
+          "href": "/boys/jewellery/bracelets"
+        }
+      ]
+    }
+  ]
+}

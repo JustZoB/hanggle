@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Women",
+    "href": "/women"
+  },
+  {
+    "name": "Men",
+    "href": "/men"
+  },
+  {
+    "name": "Girls",
+    "href": "/girls"
+  },
+  {
+    "name": "Boys",
+    "href": "/boys"
+  },
+  {
+    "name": "Clothes",
+    "href": "/category/clothes"
+  },
+  {
+    "name": "Bags",
+    "href": "/category/bags"
+  },
+  {
+    "name": "Shoes",
+    "href": "/category/shoes"
+  },
+  {
+    "name": "Accessories",
+    "href": "/category/accessories"
+  },
+  {
+    "name": "Jewellery",
+    "href": "/category/jewellery"
+  },
+  {
+    "name": "Sale",
+    "href": "/sale"
+  },
+  {
+    "name": "New",
+    "href": "/new"
+  },
+  {
+    "name": "Brands",
+    "href": "/brands"
+  }
+]
