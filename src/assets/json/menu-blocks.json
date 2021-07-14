@@ -1,0 +1,32 @@
+[
+  {
+    "name": "T-Shirts",
+    "href": "/men/clothes/shirts",
+    "image": "tshirts.png"
+  },
+  {
+    "name": "Jackets",
+    "href": "/men/clothes/jackets",
+    "image": "jackets.png"
+  },
+  {
+    "name": "Dresses",
+    "href": "/women/clothes/dresses",
+    "image": "dresses.png"
+  },
+  {
+    "name": "Shoes",
+    "href": "/men/shoes",
+    "image": "shoes.png"
+  },
+  {
+    "name": "Bags",
+    "href": "/men/bags",
+    "image": "bags.png"
+  },
+  {
+    "name": "Sale",
+    "href": "/sale",
+    "image": "sale.png"
+  }
+]

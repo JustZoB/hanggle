@@ -1,0 +1,38 @@
+{
+  "0": {
+    "name": "XX-Small",
+    "smallName": "XXS"
+  },
+  "1": {
+    "name": "X-Small",
+    "smallName": "XS"
+  },
+  "2": {
+    "name": "Small",
+    "smallName": "S"
+  },
+  "3": {
+    "name": "Medium",
+    "smallName": "M"
+  },
+  "4": {
+    "name": "Large",
+    "smallName": "L"
+  },
+  "5": {
+    "name": "X-Large",
+    "smallName": "XL"
+  },
+  "6": {
+    "name": "XX-Large",
+    "smallName": "XXL"
+  },
+  "7": {
+    "name": "XXX-Large",
+    "smallName": "XXXL"
+  },
+  "8": {
+    "name": "One size",
+    "smallName": "oneSize"
+  }
+}

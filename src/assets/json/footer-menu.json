@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Hanggle",
+    "links": [
+      {
+        "name": "About us",
+        "href": "/about-us"
+      },
+      {
+        "name": "Press",
+        "href": "/press"
+      },
+      {
+        "name": "Jobs",
+        "href": "/jobs"
+      },
+      {
+        "name": "Newsletter",
+        "href": "/newsletter"
+      }
+    ]
+  },
+  {
+    "title": "Sell with us",
+    "links": [
+      {
+        "name": "Selling options",
+        "href": "/selling-options"
+      },
+      {
+        "name": "Concierge Service",
+        "href": "/concierge-service"
+      },
+      {
+        "name": "Sell on your own",
+        "href": "/sell-on-your-own"
+      }
+    ]
+  },
+  {
+    "title": "Legal",
+    "links": [
+      {
+        "name": "T&Cs for buyers",
+        "href": "/terms-for-buyers"
+      },
+      {
+        "name": "T&Cs for sellers",
+        "href": "/terms-for-sellers"
+      },
+      {
+        "name": "Privacy policy",
+        "href": "/privacy-policy"
+      },
+      {
+        "name": "Company Information",
+        "href": "/company-information"
+      }
+    ]
+  },
+  {
+    "title": "Help",
+    "links": [
+      {
+        "name": "FAQ",
+        "href": "/faq"
+      },
+      {
+        "name": "Help center",
+        "href": "/help-center"
+      },
+      {
+        "name": "Information about shipping",
+        "href": "/information-about-shipping"
+      },
+      {
+        "name": "Contact us",
+        "href": "/contact-us"
+      }
+    ]
+  }
+]
